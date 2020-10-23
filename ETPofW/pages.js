@@ -1,4 +1,4 @@
-document.title = "Comics1";
+document.title = "Experiments: The Paradox of Worlds";
 var numPages = 11;
 var curPage = 0;
 var pages = new Array(11);
