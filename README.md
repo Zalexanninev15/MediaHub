@@ -5,4 +5,4 @@
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
 ## Comics
-* [Experiments: The Paradox of World (2020)](https://zalexanninev15.github.io/MediaHub/ETPofW/Comics.html)
+* [Experiments: The Paradox of World (2020)](https://htmlpreview.github.io/?https://zalexanninev15.github.io/MediaHub/ETPofW/Comics.html)
